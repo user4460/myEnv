@@ -1,1 +1,3 @@
-init
+os mac12
+cpu arm64
+nodejs nodejs16
