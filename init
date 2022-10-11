@@ -7,9 +7,24 @@ vsc
 git
 
 npmPackage
-react
-reactDom
-firebase
+
+"@chakra-ui/react": "^2.3.5",
+    "firebase": "^9.11.0",
+    "framer-motion": "^7.5.3",
+    "next": "12.3.1",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "recoil": "^0.7.5",
+    "recoil-persist": "^4.2.0",
+    "typescript": "^4.8.4"
 Nest CLI: 
 NestJS: 
 Prisma: 
+
+devDependenciesとは、開発時に必要なパッケージを指定します。
+"devDependencies": {
+"@types/react": "18.0.21",
+"eslint": "8.24.0",
+ "eslint-config-next": "12.3.1"
+ 
+ 
