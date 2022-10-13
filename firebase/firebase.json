@@ -1,0 +1,24 @@
+{
+  "コメント": {
+    "コメント": "firebase.jsonとは、firebaseの設定ファイルです。firebase.jsonを編集することで、firebaseの設定を変更することができます。"
+  },
+  "firestore": {
+    "rules": "firestore.rules",
+    "indexes": "firestore.indexes.json"
+  },
+  "emulators": {
+    "auth": {
+      "port": 9099
+    },
+    "functions": {
+      "port": 5001
+    },
+    "firestore": {
+      "port": 8080
+    },
+    "ui": {
+      "enabled": true
+    },
+    "singleProjectMode": true
+  }
+}
