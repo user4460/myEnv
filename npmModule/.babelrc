@@ -1,3 +1,4 @@
+//babelとは、ES6のコードをES5に変換するツール 
 {
   "presets": [
     "@babel/preset-react",

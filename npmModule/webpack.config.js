@@ -1,4 +1,6 @@
+//webpackとは、JavaScriptのモジュールバンドラーのことで、JavaScriptのモジュールを1つのファイルにまとめてくれるツールです。
 const webpack = require('webpack')
+//pathとは、ファイルやディレクトリのパスを扱うためのモジュールです。
 const path = require('path')
 const HtmlWebpackplugin = require('html-webpack-plugin')
 
