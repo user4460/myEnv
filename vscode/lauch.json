@@ -1,0 +1,21 @@
+{
+  // IntelliSenseとは、コード補完や型情報の表示などの機能で、学べる、既存の属性の説明をホバー表示
+  // 設定方法 https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "command": "npm start",
+      "name": "Run npm start",
+      "request": "launch",
+      "type": "node-terminal"
+    },
+    {
+      "type": "chrome",
+      "request": "launch",
+      "name": "Launch Chrome against localhost",
+      "url": "http://localhost:8080",
+      "webRoot": "${workspaceFolder}"
+    }
+  ],
+  "コメント": { "_comment": "コメント" }
+}

@@ -1,18 +1,11 @@
 {
-   "comment":"https://zenn.dev/saboyutaka/articles/9cffc8d14c6684",
-  "dockerComposeFile": ["../docker-compose.yml", "docker-compose.yml"],
-  "service": "app",
-  "workspaceFolder": "/workspace"
-}
-
-{
-  "https://zenn.dev/bells17/articles/remote-ssh-devcontainer":"",
+  "https://zenn.dev/bells17/articles/remote-ssh-devcontainer":"comment",
   // 名前
   "name": "devcontainer-example",
 
   // この例ではdocker-composeを利用しているので、そのパスを指定している
   // docker composeのcontextは .devcontainer になるらしい
-  "dockerComposeFile": "docker-compose.yml",
+  "dockerComposeFile":  ["../docker-compose.yml", "docker-compose.yml"],
 
   // devcontainerでshellなど？で使用するdocker composeのservice名
   "service": "app",
