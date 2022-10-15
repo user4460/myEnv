@@ -1,0 +1,59 @@
+{
+   "comment":"https://zenn.dev/saboyutaka/articles/9cffc8d14c6684",
+  "dockerComposeFile": ["../docker-compose.yml", "docker-compose.yml"],
+  "service": "app",
+  "workspaceFolder": "/workspace"
+}
+
+{
+  "https://zenn.dev/bells17/articles/remote-ssh-devcontainer":"",
+  // 名前
+  "name": "devcontainer-example",
+
+  // この例ではdocker-composeを利用しているので、そのパスを指定している
+  // docker composeのcontextは .devcontainer になるらしい
+  "dockerComposeFile": "docker-compose.yml",
+
+  // devcontainerでshellなど？で使用するdocker composeのservice名
+  "service": "app",
+  // 指定したserviceコンテナのworkspaceフォルダ
+  "workspaceFolder": "/workspace",
+  // 指定したポートが始めからvscodeのポート機能で手元環境にforwardされるようになる
+  "forwardPorts": [8080],
+
+  // https://github.com/microsoft/vscode-dev-containers/tree/v0.245.2/script-library/docs
+  // にあるスクリプトをdevcontainerで実行できるプラグイン機構
+  // 今回の例では見ての通りdocker-in-dockerの設定を行ってくれるfeatureを設定してる
+  "features": {
+    "docker-in-docker": {
+      "version": "latest",
+      "dockerDashComposeVersion": "v2"
+    }
+  },
+
+  // devcontainerとして開くvscode側の設定カスタマイズ
+  "customizations": {
+    "vscode": {
+      "settings": {
+        "go.toolsManagement.checkForUpdates": "local",
+        "go.useLanguageServer": true,
+        "go.gopath": "/go",
+        "go.goroot": "/usr/local/go"
+      },
+
+      // devcontainerに自動でインストールするvscode extention
+      // extentionのページの歯車アイコンをクリックすると出てくる「拡張機能 ID のコピー」というやつからここに貼るIDを知ることができる
+      "extensions": [
+        "golang.Go",
+        "ms-azuretools.vscode-docker",
+        "shardulm94.trailing-spaces",
+        "eamodio.gitlens",
+        "donjayamanne.githistory",
+        "mhutchie.git-graph"
+      ]
+    }
+  },
+
+  // host側の実行ユーザー(だと思う)で、devcontainerで開いたフォルダのファイルはこのユーザーに権限が無いと保存などができない
+  "remoteUser": "vscode"
+}

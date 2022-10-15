@@ -1,0 +1,6 @@
+#https://zenn.dev/saboyutaka/articles/9cffc8d14c6684
+version: '3'
+
+services:
+  app:
+    command: sleep infinity
