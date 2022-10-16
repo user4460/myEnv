@@ -1,0 +1,16 @@
+//githu copilot設定　https://docs.github.com/ja/copilot/configuring-github-copilot/configuring-github-copilot-in-visual-studio-code
+//https://docs.github.com/ja/copilot/getting-started-with-github-copilot/getting-started-with-github-copilot-in-visual-studio-code
+アクション	ショートカット	[コマンド名]
+インライン候補を受け入れる	タブ	editor.action.inlineSuggest.commit
+インライン候補を無視する	Esc	editor.action.inlineSuggest.hide
+次のインライン候補を表示する	Option (⌥)+]
+editor.action.inlineSuggest.showNext
+前のインライン候補を表示する	Option (⌥)+[
+editor.action.inlineSuggest.showPrevious
+インライン候補をトリガーする	Option (⌥)+\
+editor.action.inlineSuggest.trigger
+GitHub Copilot を開く (別のペインに追加の候補)	Ctrl+Return	github.copilot.generate
+GitHub Copilot のオン/オフを切り替える	"既定のショートカットなし"	github.copilot.toggleCopilot
+
+//Option (⌥) or Alt+]	Option (⌥) or Alt+[
+//Ctrl+を押しますEnter。

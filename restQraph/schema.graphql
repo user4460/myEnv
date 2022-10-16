@@ -1,3 +1,4 @@
+#https://graphql.org/learn/queries/#fields
 type Query {
   getUser: User
   getTodos: [Todo!]!
