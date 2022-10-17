@@ -5,7 +5,9 @@ const path = require('path')
 const HtmlWebpackplugin = require('html-webpack-plugin')
 
 module.exports = (env, options) => ({
+  //devtoolとは、デバッグ時にソースマップを出力するためのオプションです。
   devtool: options.mode === 'development' ? 'source-map' : false,
+  //devServerとは、webpack-dev-serverの設定を記述するためのオプションです。
   devServer: {
     contentBase: options.mode === 'development' ? './dist' : './build',
     port: 3001,
