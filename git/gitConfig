@@ -5,3 +5,29 @@
 	logallrefupdates = true
 	ignorecase = true
 	precomposeunicode = true
+
+[core]
+   # repositoryformatversionとは、リポジトリのフォーマットのバージョンを表す。
+	repositoryformatversion = 0
+	# filemodeとは、ファイルのパーミッションを表す。
+	filemode = true
+	# bareとは、ワーキングツリーを持たないリポジトリを作成するかどうかを表す。
+	bare = false
+	# logallrefupdatesとは、リポジトリの更新をログに記録するかどうかを表す。
+	logallrefupdates = true
+	# ignorecaseとは、ファイル名の大文字と小文字を区別するかどうかを表す。
+	ignorecase = true
+	# precomposeunicodeとは、ファイル名のUnicodeの正規化を行うかどうかを表す。
+	precomposeunicode = true
+[remote "origin"]
+	# urlとは、リモートリポジトリのURLを表す。
+	url = https://github.com/user2941
+	# fetchとは、リモートリポジトリから取得するブランチを表す。
+	fetch = +refs/heads/*:refs/remotes/origin/*
+	# pushurlとは、リモートリポジトリにプッシュするURLを表す。
+	pushurl = https://github.com/user2941
+[branch "main"]
+	# remoteとは、リモートリポジトリを表す。
+	remote = origin
+	# mergeとは、リモートリポジトリのブランチをマージするブランチを表す。
+	merge = refs/heads/main
