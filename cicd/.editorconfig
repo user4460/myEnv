@@ -1,5 +1,5 @@
 # EditorConfig is awesome: https://EditorConfig.org
-
+# EditorConfigとは、エディタの設定を共有するためのツールです。
 # top-most EditorConfig file
 root = true
 

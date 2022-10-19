@@ -1,3 +1,5 @@
+#codecovとは、コードカバレッジを可視化するサービス
+#https://codecov.io/
 comment: off
 github_checks:
   annotations: false

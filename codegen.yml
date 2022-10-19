@@ -1,3 +1,5 @@
+#codegenとは、GraphQLのスキーマから型定義を生成するツール
+#https://graphql-code-generator.com/docs/getting-started/installation
 overwrite: true
 hooks:
   afterAllFileWrite:

@@ -9,7 +9,6 @@
 # the `language` matrix defined below to confirm you have the correct set of
 # supported CodeQL languages.リポジトリ内の言語を検出しようとしました。以下に定義されている「言語」マトリックスを確認して、サポートされているcodeql言語の正しいセットがあることを確認してください。
 #
-
 #CodeQLとは、GitHubのセキュリティ機能であるCode Scanningの機能の一つです。CodeQLは、ソースコードを解析して、脆弱性を検出するためのツールです。CodeQLは、GitHubのセキュリティ機能であるCode Scanningの機能の一つです。CodeQLは、ソースコードを解析して、脆弱性を検出するためのツールです。CodeQLは、GitHubのセキュリティ機能であるCode Scanningの機能の一つです。CodeQLは、ソースコードを解析して、脆弱性を検出するためのツールです。CodeQLは、GitHubのセキュリティ機能であるCode Scanningの機能の一つです。CodeQLは、ソースコードを解析して、脆弱性を検出するためのツールです。CodeQLは、GitHubのセキュリティ機能であるCode Scanningの機能の一つです。CodeQLは、ソースコードを解析して、脆弱性を検出するためのツールです。CodeQLは、GitHubのセキュリティ機能であるCode Scanningの機能の一つです。CodeQLは、ソースコードを解析して、脆弱性を検出するためのツールです。CodeQLは、GitHubのセキュリティ機能であるCode Scanningの機能の一つです。CodeQLは、ソースコードを解析して、脆弱性を検出するためのツールです。CodeQLは、GitHubのセキュリティ機能であるCode Scanningの機能の一つです。CodeQLは、ソースコードを解析して、脆弱性を検出
 name: "CodeQL"
 
