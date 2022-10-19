@@ -1,35 +1,31 @@
 ja
 gilens
-go
-prisma
-es
-copailot
-github
+fig
+copilot
 auto import
 auto rename
-babel js
+babel 
 better comments
 docker
 dotenv
 error lens
 eslint
-fig
-firebase
-firebase explorer
-github copilot
-gitlens
-go
-go nightly
-go outline
-inline sql
 gql
-material icon theme
+material icon 
 output colorizer
 path intellisense
 prettier
-prisma
 search node modules
 ver
 yaml
+
+使う時
+go
+prisma
+go nightly
+go outline
+firebase
+firebase explorer
+inline sql
 
 vsc拡[fig,err,out,git,hub,翻訳,ver,yrn,ql,,base,shll,コパ,icon,npm,path,intl,cmmt,dckr]

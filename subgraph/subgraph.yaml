@@ -11,6 +11,7 @@ dataSources:
     name: CeaErc20
     network: mainnet
     source:
+    #abiとは、コントラクトの関数の情報
       abi: erc20
       address: "0xa6dF0C88916f3e2831A329CE46566dDfBe9E74b7"
       #mappingとは、
@@ -24,6 +25,7 @@ dataSources:
       entities:
         - Token
         - Transfer
+      #eventHandlersとは、
       eventHandlers:
         - event: Transfer(indexed address,indexed address,uint256)
           handler: handleTransfer
