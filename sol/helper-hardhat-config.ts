@@ -1,4 +1,6 @@
 // @ts-ignore
+//HardhatNetworkForkingUserConfigとは、HardhatNetworkUserConfigの拡張型
+//HardhatUserConfigとは、HardhatConfigの拡張型
 import {
   HardhatNetworkForkingUserConfig,
   HardhatUserConfig,

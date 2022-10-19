@@ -1,0 +1,7 @@
+{
+  "comment":"lernaとは、モノレポのパッケージ管理ツール、モノレポとは、複数のパッケージをひとつのリポジトリで管理すること",
+  "version": "independent",
+  "packages": ["packages/*"],
+  "npmClient": "yarn",
+  "ignoreChanges": ["**/*.md", "**/*.spec.ts"]
+}

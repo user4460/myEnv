@@ -1,8 +1,10 @@
+//hardhatconfigとは、ハードハットの設定ファイルで、ハードハットの設定を記述するファイルです。
 import "hardhat-typechain";
 import "@nomiclabs/hardhat-ethers";
 import "@nomiclabs/hardhat-waffle";
 import "@nomiclabs/hardhat-etherscan";
 
+//allowUnlimitedContractSizeとは、コントラクトのサイズを無制限にするかどうかの設定です。
 export default {
   networks: {
     hardhat: {
@@ -42,6 +44,7 @@ export default {
       url: `https://polygon-mainnet.infura.io/v3/${process.env.INFURA_API_KEY}`,
     },
   },
+  //etherscanとは、Etherscanは、イーサリアムのブロックチェーンブロックエクスプローラーで、イーサリアムのトランザクションやコントラクトの情報を見ることができます。
   etherscan: {
     // Your API key for Etherscan
     // Obtain one at https://etherscan.io/
@@ -54,6 +57,7 @@ export default {
         enabled: true,
         runs: 800,
       },
+      //metadataとは、メタデータとは、データのデータのことで、データの構造や属性を記述したデータです。
       metadata: {
         // do not include the metadata hash, since this is machine dependent
         // and we want all generated code to be deterministic

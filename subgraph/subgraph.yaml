@@ -1,8 +1,11 @@
+#subgraphとは、Ethereum上のコントラクトをGraphQLで扱えるようにするためのもの
 specVersion: 0.0.4
+#descriptionとは、GraphQLの説明
 description: Subgraph that indexes the blockchain data
 repository: https://github.com/sablierhq/sablier-subgraph
 schema:
   file: ./schema.graphql
+  #datasourcesとは、GraphQLで扱うコントラクトの情報
 dataSources:
   - kind: ethereum/contract
     name: CeaErc20
@@ -10,12 +13,14 @@ dataSources:
     source:
       abi: erc20
       address: "0xa6dF0C88916f3e2831A329CE46566dDfBe9E74b7"
+      #mappingとは、
     mapping:
       kind: ethereum/events
       apiVersion: 0.0.6
       abis:
         - name: erc20
           file: ../contracts/src/abis/erc20.json
+          #entitiesとは、
       entities:
         - Token
         - Transfer
