@@ -19,9 +19,17 @@ path intellisense
 prettier
 search node modules
 ver
-yaml
+yaml sort
+testadapter
+test explorer
+node moudule search
+npm intellisense
+jest runner
 
 使う時
+nix
+crates
+better toml
 go
 prisma
 go nightly
@@ -29,5 +37,12 @@ go outline
 firebase
 firebase explorer
 inline sql
+ether visual
+ethover
+graphviz
+inline bookmarks
+plantUml
+solidity contract flatter
+
 
 vsc拡[fig,err,out,git,hub,翻訳,ver,yrn,ql,,base,shll,コパ,icon,npm,path,intl,cmmt,dckr]
