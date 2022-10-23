@@ -10,6 +10,18 @@
     "bbenoist.nix",
     "serayuzgur.crates",
     "tamasfe.even-better-toml",
-    "ms-vscode-remote.remote-containers"
+    "ms-vscode-remote.remote-containers",
+    "aaron-bond.better-comments",
+    "foxundermoon.shell-format",
+    "steoates.autoimport",
+    "formulahendry.auto-rename-tag",
+    "mikestead.dotenv",
+    "usernamehw.errorlens",
+    "dbaeumer.vscode-eslint",
+    "tintinweb.vscode-ethover",
+    "withfig.fig",
+    "github.copilot-labs",
+    "github.copilot-nightly",
+    "eamodio.gitlens"
   ]
 }
