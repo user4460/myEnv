@@ -1,50 +1,38 @@
 コメント翻訳
 日本語japanese
 googleTranslate
-gilens
+gitlens
 fig
-copilot
+github[copilot,github]
 auto import
 auto rename
-babel 
-better comments
-docker
 dotenv
 error lens
-eslint
+prettier[eslint,
 gql
 material icon 
 output colorizer
 path intellisense
-prettier
 search node modules
-ver
+version lens
 yaml sort
-testadapter
-test explorer
 node moudule search
 npm intellisense
-jest runner
 
-使う時
+#使う時
+test[jest runner,testadapter,test explorer]
+babel
+better comments
+shell
+docker
+yarn
 nix
-crates
-better toml
-go
+rust[crates,better toml]
+go[nightly,outline]
 prisma
-go nightly
-go outline
-firebase
-firebase explorer
+firebase[firebase explorer]
 inline sql
-ether visual
-ethover
-graphviz
-inline bookmarks
-plantUml
-solidity contract flatter
+ether visual[ethover,graphviz,inline bookmarks,plantUml,solidity flatter
 翻訳の設定
-
-vsc拡[fig,err,out,git,hub,翻訳,ver,yrn,ql,,base,shll,コパ,icon,npm,path,intl,cmmt,dckr]
 
 削除したものは、vscodeの拡張機能で推奨追加する
