@@ -32,6 +32,7 @@ go[nightly,outline]
 prisma
 firebase[firebase explorer]
 inline sql
+solidity metrics slirther toolforsol
 ether visual[ethover,graphviz,inline bookmarks,plantUml,solidity flatter
 翻訳の設定
 
