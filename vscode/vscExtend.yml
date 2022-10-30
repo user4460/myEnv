@@ -35,5 +35,7 @@ inline sql
 solidity metrics slirther toolforsol
 ether visual[ethover,graphviz,inline bookmarks,plantUml,solidity flatter
 翻訳の設定
+Tools for Solidity
+Slither
 
 削除したものは、vscodeの拡張機能で推奨追加する
