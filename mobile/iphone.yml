@@ -4,10 +4,10 @@ smart[gigalife,maya]
 globe[one,gcash]
 
 google[翻訳,mail]
-line
-wirex
-metamask
+chat[line]
+wallet[wirex,metamask]
 移動[grab,ankas]
+ホテル[booking,agoda]
 
 metrobank
 github
