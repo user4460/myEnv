@@ -1,0 +1,17 @@
+*://en.wikipedia.org/*
+*://twitter.com/*
+*://www.youtube.com/*
+*://www.facebook.com/*
+*://yutura.net/*
+*://r25.jp/*
+*://www.dailymotion.com/*
+*://sports.yahoo.co.jp/*
+*://blog.livedoor.jp/*
+*://www.amazon.co.jp/*
+*://www.netflix.com/*
+*://newspicks.com/*
+*://ja.wikipedia.org/*
+*://www.instagram.com/*
+*://www.yahoo.co.jp/*
+*://baseball.yahoo.co.jp/*
+*://news.yahoo.co.jp/*
