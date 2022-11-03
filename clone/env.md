@@ -68,3 +68,7 @@ hardhat
 memamask
 truffle
 
+- tool
+trezor
+bitbox
+ledger
