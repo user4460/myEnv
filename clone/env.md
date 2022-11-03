@@ -1,11 +1,15 @@
+envで記録したオープンソースのものを全てクローンして確認
+
 # env
 - chrome
 brave
 devtool
 v8 https://github.com/v8/v8
 chromimium https://chromium.googlesource.com/chromium/src
+devContatiner
 
 - git
+git
 
 - vsc
 vsc 
