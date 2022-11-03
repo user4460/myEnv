@@ -1,0 +1,9 @@
+#codeclimateとは、コードの品質をチェックするツール
+version: "2"
+plugins:
+  hlint:
+    enabled: true
+exclude_patterns:
+  - "examples/"
+  - "exercises/"
+  - "solidity/"
