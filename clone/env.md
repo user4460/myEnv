@@ -1,11 +1,9 @@
-chrominimum
-git clone https://chromium.googlesource.com/chromium/src
-
 # env
 - chrome
 brave
 devtool
 v8 https://github.com/v8/v8
+chromimium https://chromium.googlesource.com/chromium/src
 
 - git
 
