@@ -1,76 +1,27 @@
-envで記録したオープンソースのものを全てクローンして確認
+envで記録しossのものを全cloneして確認
 
-frのjsはv8が大事で、bkのsolはethereumが大事
-
+frのjsはv8が大事で、bkのsolはethが大事
 # env
+
+- cpu
+risc-v
+geth
+
+- db 
+postgres
+geth
+
+- fr
+v8
+webkit
+
+- os
+darwin
+
 - chrome
 brave
-devtool
 v8 https://github.com/v8/v8
 chromimium https://chromium.googlesource.com/chromium/src
-devContatiner
 
 - git
 git
-
-- vsc
-vsc 
-vsc counter
-vscode-loc
-
-- zsh
-brew
-solidity-shell
-zsh
-
-# envCiCd
-- cicd
-componse
-cypress
-
-- testJs
-chai
-mocha
-
-- testSol
-echidna
-Waffle
-
-# envJs
-- js
-react
-recoil
-
-- npmMoudule
-babel
-eslint
-prettier
-
-- pm
-npm cli
-nodejs node
-yarn
-
-# envlang
-
-# envSol
-- sol
-ethersjs
-go-ethereum
-solidity
-web3.js
-
-- solcicd
-silther
-solidity-coverage
-
-- solTool
-foundry
-hardhat
-memamask
-truffle
-
-- tool
-trezor
-bitbox
-ledger
