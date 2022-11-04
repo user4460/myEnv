@@ -1,6 +1,3 @@
-ソースをクローンする
-その後にコメント生成
-
 nextjs
 reactjs
 chakraui

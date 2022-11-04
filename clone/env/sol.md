@@ -1,8 +1,3 @@
-sol
-ソースをクローンする
-その後にコメント生成
-
-# envSol
 - sol
 ethersjs
 go-ethereum
