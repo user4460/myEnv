@@ -12,6 +12,8 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 // docker-bakeとは、Dockerイメージのビルドを行うためのツールです。
+// hclとは、HashiCorp Configuration Languageの略で、Terraformの設定ファイルなどで利用されている構文です。
+// このツールは、hclを利用して、Dockerイメージのビルドを行うことができます。
 
 variable "GO_VERSION" {
   default = "1.19.2"

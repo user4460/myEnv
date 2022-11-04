@@ -1,5 +1,7 @@
 envで記録したオープンソースのものを全てクローンして確認
 
+frのjsはv8が大事で、bkのsolはethereumが大事
+
 # env
 - chrome
 brave
