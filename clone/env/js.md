@@ -1,6 +1,5 @@
-# envJs
 - js
-react
+react zip
 recoil
 nextjs
 
@@ -8,11 +7,11 @@ nextjs
 babel
 eslint
 prettier
-typescript
+typescript　zip
 
 - pm
 npm cli
-nodejs node
+nodejs node zip
 yarn
 
 - Ui

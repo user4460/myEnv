@@ -4,17 +4,17 @@ arm-trusted-firmware
 
 - db 
 postgres
-geth
+geth zip
 
 - fr
-webkit
+webkit zip
 brave
-v8 https://github.com/v8/v8
-chromimium https://chromium.googlesource.com/chromium/src zip
-node 
-electron
-git
+v8 zip https://github.com/v8/v8
+chromium zip https://chromium.googlesource.com/chromium/src zip
+node zip
+electron zip
+git zip
 
 - os
-darwin
+darwin zip
 linux zip

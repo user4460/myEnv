@@ -1,7 +1,7 @@
 - sol
 ethersjs
-go-ethereum
-solidity
+go-ethereum zip
+solidity zip
 web3.js
 
 - solcicd
