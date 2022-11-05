@@ -9,3 +9,6 @@ go
 - rs
 rs
 cargo
+
+- c
+llvm zip

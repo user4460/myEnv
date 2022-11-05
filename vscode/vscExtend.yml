@@ -37,5 +37,6 @@ ether visual[ethover,graphviz,inline bookmarks,plantUml,solidity flatter
 翻訳の設定
 Tools for Solidity
 Slither
+arm assembly
 
 削除したものは、vscodeの拡張機能で推奨追加する
