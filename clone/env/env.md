@@ -1,6 +1,6 @@
 - cpu
-risc-v
-geth
+riscV
+arm-trusted-firmware
 
 - db 
 postgres
@@ -10,11 +10,11 @@ geth
 webkit
 brave
 v8 https://github.com/v8/v8
-chromimium https://chromium.googlesource.com/chromium/src
+chromimium https://chromium.googlesource.com/chromium/src zip
+node 
+electron
+git
 
 - os
 darwin
-linux
-
-- git
-git
+linux zip
