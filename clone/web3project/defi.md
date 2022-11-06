@@ -12,4 +12,3 @@ maker
 asset
 synthetix
 yearn
-

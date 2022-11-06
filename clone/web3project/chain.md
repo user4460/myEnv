@@ -1,0 +1,5 @@
+bsc
+cosmosChain
+evmChain
+stakeTechnology
+moonbean
