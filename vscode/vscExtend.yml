@@ -8,7 +8,7 @@ auto import
 auto rename
 dotenv
 error lens
-prettier[eslint,
+prettier[eslint]
 gql
 material icon 
 output colorizer

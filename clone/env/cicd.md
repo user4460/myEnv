@@ -2,6 +2,10 @@
 componse
 cypress
 
+- github
+git
+codeQl
+
 - testJs
 chai
 mocha

@@ -9,5 +9,4 @@ solidity-shell
 zsh zip
 volta
 
-- git
-git zip
+
