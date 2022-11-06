@@ -1,9 +1,10 @@
+- official
 ignite
 cosmosSDK
 tendermint
-evm
-wasm
 
+- secondary
 bsc
-cosmosChain
-evmChain
+cosmosWasm
+evmos
+ethermint

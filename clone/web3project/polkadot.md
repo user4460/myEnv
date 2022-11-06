@@ -1,2 +1,2 @@
-stakeTechnology
+astar
 moonbean
