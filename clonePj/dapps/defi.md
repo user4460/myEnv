@@ -1,14 +1,14 @@
-dex
+- dex
 uni
 curvefi
 sushi
 balancer
 
-lend
+- lend
 aave
 compound
 maker
 
-asset
+- option
 synthetix
 yearn
