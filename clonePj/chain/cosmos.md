@@ -3,7 +3,7 @@ ignite
 cosmosSDK
 tendermint
 
-- secondary
+- project
 bsc
 cosmosWasm
 evmos
