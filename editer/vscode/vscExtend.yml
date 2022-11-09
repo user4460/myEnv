@@ -18,6 +18,7 @@ version lens
 yaml sort
 node moudule search
 npm intellisense
+key sound
 
 #使う時
 test[jest runner,testadapter,test explorer]
@@ -38,5 +39,5 @@ ether visual[ethover,graphviz,inline bookmarks,plantUml,solidity flatter
 Tools for Solidity
 Slither
 arm assembly
-
+cmake 
 削除したものは、vscodeの拡張機能で推奨追加する
