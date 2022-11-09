@@ -1,6 +1,7 @@
 コメント翻訳
 日本語japanese
 googleTranslate
+key sound
 gitlens
 fig
 github[copilot,github]
@@ -18,7 +19,7 @@ version lens
 yaml sort
 node moudule search
 npm intellisense
-key sound
+vs counter
 
 #使う時
 test[jest runner,testadapter,test explorer]
@@ -40,4 +41,6 @@ Tools for Solidity
 Slither
 arm assembly
 cmake 
+protobuf3
+
 削除したものは、vscodeの拡張機能で推奨追加する
