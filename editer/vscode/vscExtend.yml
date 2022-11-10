@@ -42,5 +42,7 @@ Slither
 arm assembly
 cmake 
 protobuf3
+quokkajs
+rust-playground
 
 削除したものは、vscodeの拡張機能で推奨追加する
