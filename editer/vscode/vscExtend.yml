@@ -1,48 +1,24 @@
-コメント翻訳
-日本語japanese
-googleTranslate
-key sound
-gitlens
-fig
-github[copilot,github]
-auto import
-auto rename
-dotenv
-error lens
-prettier[eslint]
-gql
-material icon 
-output colorizer
-path intellisense
-search node modules
-version lens
-yaml sort
-node moudule search
-npm intellisense
-vs counter
+翻訳[コメント翻訳,日本語ja,googleTrans]
+color[icon,outputColorizer]
+keySound
+shh[fig]
+log[vsCounter]
+github[copilot,githubm,gitLens]
+auto[autoImport,autoRename]
+lang[dotenv,yamlSort,gql]
+errorLens
+js[prettier,eslint,node{searchNodeModules,versionLens}]
+intelli[pathIntelli,npm]
 
 #使う時
-test[jest runner,testadapter,test explorer]
-babel
-better comments
-shell
-docker
-yarn
-nix
+test[jestRunner,adapter,explorer]
+js[babel,quokkajs,yarn]
+環境[docker,rust-playground]
+lang[cmake,protobuf3,nix,shell,armAssembly,sql{inlineSql,prisma},betterComments]
 rust[crates,better toml]
 go[nightly,outline]
-prisma
-firebase[firebase explorer]
-inline sql
-solidity metrics slirther toolforsol
-ether visual[ethover,graphviz,inline bookmarks,plantUml,solidity flatter
-翻訳の設定
-Tools for Solidity
-Slither
-arm assembly
-cmake 
-protobuf3
-quokkajs
-rust-playground
+firebase[firebase,explorer]
+solidity[metrics,slirther,toolforsol]
+etherVisual[ethover,graphviz,inline bookmarks,plantUml,solidityFlatter
 
 削除したものは、vscodeの拡張機能で推奨追加する
