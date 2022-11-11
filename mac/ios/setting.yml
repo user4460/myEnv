@@ -3,4 +3,8 @@
 音[ミュート]
 通知を切る
 
-nPC[mail,chat,mes,連携,同期,閲覧,返信,line,slack,noDel,スマキーのみ]
+pcでやらない
+アプリ系[mail,chat,mes]
+設定[連携,同期,閲覧,返信]
+アプリ[line,slack]
+スマキーのみ

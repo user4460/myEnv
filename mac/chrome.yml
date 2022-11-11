@@ -4,16 +4,11 @@ dvtl{rcl,rct,react,react context}
 github[octotree,icon]
 wallet
 拡張マネージャー
-cmp
+speed
 
 使う場合
-refiend github
-api
-json
-playground
-tabmaneger
-音声動画speed
+github[refiend]
+開発[api,json,playground]
+log[tabmaneger,時計]
 mate
-時計
-block search 
-cache delete
+block[search] 

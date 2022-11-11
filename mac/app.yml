@@ -1,18 +1,13 @@
-vsc
-fig
+開発[vsc,fig,sourcetree]
+log[wordCounter,qbserve]
+keyborad[karabiner,typingSound]
 timer
-sourcetree
 brave
-qbserve
 spotify
 hardware
-cakebrew
-karabiner
-word counter
-typing sound
+zsh[cakebrew]
 
 使う時
 chrome
 itext
-docker
-arttype
+開発[docker,arttype]
