@@ -6,10 +6,9 @@ hardware[led,tre]
 zsh[cakebrew]
 
 使う時
-brave
-chrome
-itext
+開発[brave,chrome]
+翻訳[itext]
 開発[docker,arttype]
 zsh[cakebrew]
 timer
-spotify
+音楽[spotify]
