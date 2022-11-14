@@ -1,13 +1,15 @@
+基本は純正のみ
 開発[vsc,fig,sourcetree]
-log[wordCounter,qbserve]
+log[WordCounter,qbserve]
 keyborad[karabiner,typingSound]
-timer
-brave
-spotify
-hardware
+hardware[led,tre]
 zsh[cakebrew]
 
 使う時
+brave
 chrome
 itext
 開発[docker,arttype]
+zsh[cakebrew]
+timer
+spotify
