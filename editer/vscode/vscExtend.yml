@@ -9,6 +9,7 @@ lang[dotenv,yamlSort,gql]
 errorLens
 js[prettier,eslint,node{searchNodeModules,versionLens}]
 intelli[pathIntelli,npm]
+vim[neoVim,learnVim,vimTheme]
 
 #使う時
 test[jestRunner,adapter,explorer]
