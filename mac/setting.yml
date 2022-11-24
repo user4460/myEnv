@@ -1,23 +1,23 @@
-設定
-キーボード[スクロール,設定,ショートカット,touchPadを利用停止]
-見目[ブラックテーマ{1年中消灯},光量{夜は1%},青光カット,]
-利用時間[充電→95,qb]
-無bluetooth[sp,tab,pc,メニューバー]
-dock[表示{vsc,brv},未使用アプリ非表示]
-メニューバー[app{kara,type{音,数},qb,gurad},充電,wifi,cntrl,日付]
-認証[指紋,watch]
+setting
+keyboard[scroll,setting,shortcut,no use touchPad]
+見目[blacktheme{1year lightOff},night1%,bluelight cut]
+use time [electCharge→95,qb]
+no bluetooth[sp,tab,pc,menubar]
+dock[表示{vsc,brv},no use app 非表示]
+menubar[app{kara,type{sound,数},qb,gurad},electCharge,wifi,cntrl,day]
+auth[fingerprint,watch]
 
-ブラウザ
-削除[検索アドレスバー,削除時に履歴]
+brawser
+delete[search adddress bar,delete history]
 
-ブラウザ拡張機能[ブロックするサイト]
-bl拡張[bl広告,blサイト,bl検索,bl迷mail]
+brawser extension[block webSite]
+blExtension[blAdvertise,blWebsite,blsearch,blfilterMail]
 ggSuite
-検索ツール
-サイト{ニュース,金融,住居,医療}
-スマホ,
+searchTool
+website{new,financial,house,medical}
+smartphone,
 sns[fb,tw,yt,掲示板]
-コンテンツ[漫画,音声]
-動画サイト[アニメ,バラエティ,ドラマ,netflix,amazon]
-連絡[line,mail]
+contents[commic,voice]
+video Site[animation,owarai,dorama,netflix,amazon]
+contact[line,mail]
 

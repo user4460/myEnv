@@ -1,4 +1,4 @@
-翻訳[コメント翻訳,日本語ja,googleTrans]
+translate[comment translate,japanese,googleTrans]
 color[icon,outputColorizer]
 keySound
 shh[fig]
@@ -11,7 +11,7 @@ js[prettier,eslint,node{searchNodeModules,versionLens}]
 intelli[pathIntelli,npm]
 vim[neoVim,learnVim,vimTheme]
 
-#使う時
+#use case
 test[jestRunner,adapter,explorer]
 js[babel,quokkajs,yarn]
 環境[docker,rust-playground]
@@ -22,4 +22,4 @@ firebase[firebase,explorer]
 solidity[metrics,slirther,toolforsol]
 etherVisual[ethover,graphviz,inline bookmarks,plantUml,solidityFlatter
 
-削除したものは、vscodeの拡張機能で推奨追加する
+delete is vscode extension recommend

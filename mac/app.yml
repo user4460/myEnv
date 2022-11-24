@@ -1,5 +1,5 @@
-基本は純正のみ,ダークテーマ
-開発[vsc,fig,sourcetree]
+基本は純正のみ,blackTheme
+develop[vsc,fig,sourcetree]
 log[WordCounter,qbserve]
 keyborad[karabiner,loundtyper]
 hardware[led,tre,bit]
@@ -8,7 +8,7 @@ cheatsheet
 alacritty
 
 使う時
-開発[brave,chrome]
-翻訳[itext,mate]
-開発[docker,arttype]
+develop[brave,chrome]
+translate[itext,mate]
+develop[docker,arttype]
 timer
