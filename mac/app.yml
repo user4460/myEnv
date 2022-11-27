@@ -1,4 +1,4 @@
-基本は純正のみ,blackTheme
+# standar apple only,blackTheme
 develop[vsc,fig,sourcetree]
 log[WordCounter,qbserve]
 keyborad[karabiner,loundtyper]
@@ -7,7 +7,7 @@ raycast
 cheatsheet
 alacritty
 
-使う時
+# use case 
 develop[brave,chrome]
 translate[itext,mate]
 develop[docker,arttype]

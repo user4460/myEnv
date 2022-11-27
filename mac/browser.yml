@@ -7,7 +7,7 @@ wallet
 拡張マネージャー
 speed
 
-use case
+# use case
 github[refiend]
 develop[api,json,playground]
 log[tabmaneger,timer]
@@ -16,7 +16,7 @@ block[search]
 見目[Dark Reader]
 viminium
 
-in future chrome allSafari
+# in future chrome allSafari
 adgard
 speed
 mate translate
