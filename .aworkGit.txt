@@ -1,4 +1,2 @@
 常にgit編集中にするためのファイル
-
-
-
+allContent translate[ph,china,jpang=>eng]
