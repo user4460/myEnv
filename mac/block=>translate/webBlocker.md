@@ -1,4 +1,5 @@
-入力欄
+input
+all translate,jpang=>eng
 chrome-extension://hclgegipaehbigmbhdpfapmjadbaldib/options.html
 
 mail.google.com 0000-2359
@@ -16,3 +17,4 @@ youtura.net 0000-2359
 animenew. be0000-2359
 blog.livedoor.jp 0000-2359
 gogoanimeapp.com 0000-2359
+
