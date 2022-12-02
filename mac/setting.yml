@@ -3,7 +3,7 @@ keyboard[scroll,setting,shortcut,no use touchPad]
 見目[blacktheme{1year lightOff},night1%,bluelight cut]
 use time [electCharge→95,qb]
 no bluetooth[sp,tab,pc,menubar]
-dock[表示{vsc,brv},no use app 非表示]
+dock[hyouzi{vsc,brv},no use app hihyouzi]
 menubar[app{kara,type{sound,数},qb,gurad},electCharge,wifi,cntrl,day]
 auth[fingerprint,watch]
 
@@ -16,7 +16,7 @@ ggSuite
 searchTool
 website{new,financial,house,medical}
 smartphone,
-sns[fb,tw,yt,掲示板]
+sns[fb,tw,yt,board]
 contents[commic,voice]
 video Site[animation,owarai,dorama,netflix,amazon]
 contact[line,mail]

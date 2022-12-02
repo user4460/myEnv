@@ -1,0 +1,2 @@
+setting english
+brawser english default

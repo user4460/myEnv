@@ -1,0 +1,4 @@
+setting english
+
+safari translate
+
