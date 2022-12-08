@@ -1,0 +1,3 @@
+slack
+gmail
+chrome
