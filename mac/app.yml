@@ -12,3 +12,4 @@ develop[brave,chrome]
 translate[itext,mate]
 develop[docker,arttype]
 timer
+log[rescuetime]
