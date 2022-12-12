@@ -1,2 +1,3 @@
-常にgit編集中にするためのファイル
 allContent translate[ph,china,jpang=>eng]
+
+tuneni git editer file
