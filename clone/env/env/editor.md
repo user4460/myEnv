@@ -12,4 +12,3 @@ solidity-shell
 zsh zip
 volta
 vim
-

@@ -9,4 +9,3 @@ cosmosWasm
 evmos
 ethermint
 
-- 

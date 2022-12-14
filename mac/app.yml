@@ -1,5 +1,5 @@
 # standard apple only,blackTheme
-develop[vsc,fig,sourcetree]
+develop[jetBrain,vsc,fig,sourcetree]
 log[WordCounter,qbserve]
 keyborad[karabiner,loundtyper]
 hardware[led,tre,bit]
