@@ -5,7 +5,7 @@ keyborad[karabiner,loundtyper]
 hardware[led,tre,bit]
 raycast
 cheatsheet
-alacritty
+terminal[iterm2,alacritty]
 
 # use case 
 develop[brave,chrome]
