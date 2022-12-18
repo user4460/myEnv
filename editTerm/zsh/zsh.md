@@ -1,0 +1,4 @@
+tmux
+ohmyzsh
+iterm2
+
