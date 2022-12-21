@@ -1,4 +1,5 @@
 #percyとは、
+# percyは、スクリーンショットを撮ってくれるサービス
 version: 2
 snapshot:
   widths:
