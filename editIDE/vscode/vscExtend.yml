@@ -2,7 +2,7 @@ translate[comment translate,japanese,googleTrans]
 color[icon,outputColorizer]
 keySound
 shh[fig]
-log[vsCounter]
+log[vsCounter,wakatime]
 github[copilot,githubm,gitLens]
 auto[autoImport,autoRename]
 lang[dotenv,yamlSort,gql]
